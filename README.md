@@ -8,6 +8,12 @@
 
 Dự án được thực hiện nhằm vận dụng kiến thức lập trình C#, làm quen với Unity Engine và tìm hiểu quy trình xây dựng một trò chơi 2D hoàn chỉnh từ thiết kế đồ họa đến lập trình các cơ chế gameplay.
 
+### 👥 Thành viên thực hiện
+
+| Họ tên | Mã sinh viên | Vai trò |
+| :--- | :---: | :--- |
+| Trần Quang Huy | 24100425 | Trưởng nhóm |
+
 ---
 
 ## 2. Công nghệ sử dụng
@@ -52,8 +58,8 @@ Dự án được thực hiện nhằm vận dụng kiến thức lập trình C
 ### 3.6. Camera & Trạng thái trò chơi
 * **Camera Follow:** Camera tự động đi theo nhân vật trong suốt quá trình chơi.
 * **Camera Bounds:** Giới hạn phạm vi cuộn của camera theo kích thước bản đồ.
-* Display màn hình **Game Over** khi người chơi hết máu/rơi vào bẫy.
-* Display màn hình **Victory (Chiến thắng)** khi người chơi hoàn thành mục tiêu.
+* Hiển thị màn hình **Game Over** khi người chơi hết máu/rơi vào bẫy.
+* Hiển thị màn hình **Victory (Chiến thắng)** khi người chơi hoàn thành mục tiêu.
 
 ### 3.7. Âm thanh (Audio)
 * Hiệu ứng âm thanh (SFX) khi nhân vật thực hiện hành động nhảy.
